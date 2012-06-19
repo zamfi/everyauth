@@ -1,13 +1,13 @@
 {
   "name": "everyauth",
   "description": "Auth solution (password, facebook, & more) for your node.js Connect & Express apps",
-  "version": "0.2.32",
-  "homepage": "https://github.com/bnoguchi/everyauth/",
+  "version": "0.2.32a",
+  "homepage": "https://github.com/zamfi/everyauth/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bnoguchi/everyauth.git"
+    "url": "git://github.com/zamfi/everyauth.git"
   },
-  "author": "Brian Noguchi <brian.noguchi@gmail.com> (https://github.com/bnoguchi/)",
+  "author": "J.D. Zamfirescu <zamfire@gmail.com> (https://github.com/zamfi/)",
   "keywords": [
     "auth",
     "oauth",
